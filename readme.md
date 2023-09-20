@@ -1,4 +1,4 @@
-# Airflow DAG and Spark Script README
+# Airflow DAG and Spark Script
 
 ## Introduction
 
